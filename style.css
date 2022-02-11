@@ -119,7 +119,16 @@ border-left: none;
 div#tablero > div#d07,div#d08, div#d09 {
 border-bottom:none;
 }
-
+article#historia > div{
+    background-image: url(./images/mercaderes.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    opacity: 1;
+    height: 600px;
+    width: 100%;
+    margin: 0 auto;
+}
 #historia > p{
     font-family:'Times New Roman', Times, serif;
     font-size: 1.2em;
