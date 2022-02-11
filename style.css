@@ -134,3 +134,18 @@ border-bottom:none;
     line-height: 1.6em;
     padding: 0 30px;
 }
+#instrucciones{
+    background-image: url(./images/persian_borderBig.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#juego{
+    background-image: url(./images/persian_borderBig.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#historia{
+    background-image: url(./images/persian_borderBig.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
