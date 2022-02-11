@@ -144,6 +144,7 @@ article#historia > div{
     font-size: 1.2em;
     text-align: center;
     line-height: 1.8em;
+    background-color:rgba(204, 170, 77, 0.5)
 }
 
 #instrucciones > p{
@@ -164,7 +165,7 @@ article#historia > div{
     background-position: center;
 }
 #historia{
-    background-image: url(./images/persian_borderBig.png);
+    background-image: url(./imagenes/persian_borderBig.png);
     background-repeat: no-repeat;
     background-position: center;
 }
