@@ -7,7 +7,7 @@ body {
     margin: 0;
     color:#5d4f3f;
     height: 100%;
-    background-image: url(./images/persian_border.png);
+    background-image: url(./imagenes/persian_border.png);
 }
 
 section {
@@ -120,7 +120,7 @@ div#tablero > div#d07,div#d08, div#d09 {
 border-bottom:none;
 }
 article#instrucciones > div{
-    background-image: url(./images/encerado_dorado.png);
+    background-image: url(./imagenes/encerado_dorado.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
@@ -130,7 +130,7 @@ article#instrucciones > div{
     margin: 0 auto;
 }
 article#historia > div{
-    background-image: url(./images/mercaderes.png);
+    background-image: url(./imagenes/mercaderes.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
@@ -154,12 +154,12 @@ article#historia > div{
     padding: 0 30px;
 }
 #instrucciones{
-    background-image: url(./images/persian_borderBig.png);
+    background-image: url(./imagenes/persian_borderBig.png);
     background-repeat: no-repeat;
     background-position: center;
 }
 #juego{
-    background-image: url(./images/persian_borderBig.png);
+    background-image: url(./imagenes/persian_borderBig.png);
     background-repeat: no-repeat;
     background-position: center;
 }
